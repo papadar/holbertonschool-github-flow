@@ -20,3 +20,5 @@ Participants in the workshop will:
 - Open pull requests and review each other's work.
 - Resolve merge conflicts when they appear.
 - Tag and release specific versions of the documentation.
+
+This introduction has been updated as part of collaborative work.
